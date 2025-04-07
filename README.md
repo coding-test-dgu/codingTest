@@ -41,8 +41,8 @@ Ex.) 1주차_KSH_BOJ[Diamond1]_좌표압축.py
 :heavy_check_mark: `Tag` : 어떤 종류의 `commit`인지 작성
 |Tag|Description|
 |:---:|---|
-|제출|주차별 코드리뷰 과제 제출|
-|미해결/해결|라이브코딩 문제 미해결 / 해결|
+|Summit|주차별 코드리뷰 과제 제출|
+|Unsol/Sol|라이브코딩 문제 미해결 / 해결|
 |Refactor|소스 코드 수정 및 알고리즘 수정|
 |Docs|문서 작업|
 
