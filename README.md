@@ -55,7 +55,7 @@ Ex.) 1주차_KSH_BOJ[Diamond1]_좌표압축.py
 ```
 
 
-### :exclamation:Pull request
+### :exclamation: Pull request
 - PR 제목
     - 커밋메세지와 통일
 - PR 내용<br>
@@ -88,7 +88,7 @@ Ex.) 1주차_KSH_BOJ[Diamond1]_좌표압축.py
     - 개선 필요한 부분 구체적으로 설명 Ex.) 2중 반복문이 수행시간 초과할 것 같아요
 
 
-## :large_orange_diamond:디렉토리 구조
+## :large_orange_diamond: 디렉토리 구조
 ```
 └── 📂스터디원1 ( for 개인 문제 제출 )
        ├── 📂BOJ
