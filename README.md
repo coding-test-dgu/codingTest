@@ -36,7 +36,7 @@
 for 라이브코딩 : `날짜_이니셜_문제출처_문제이름.py`<br>
 Ex.) 0406_KSH_Programmers[Level2]_도넛과 빙글빙글.py <br>
 
-for 코드리뷰 : `주차_이니셜_문제출처_문제이름.py` <br>
+for 코드리뷰 : `주차_문제출처_문제이름.py` <br>
 Ex.) 1주차_KSH_BOJ[Diamond1]_좌표압축.py
 ### :exclamation: Commit Message 컨벤션
 ```
